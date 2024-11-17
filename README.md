@@ -1,4 +1,4 @@
-ttps://raw.githubusercontent.com/JordanProgramsX/neoweb-browser/0639c4f1e708abd021f26127479eb4e047f2841e/chrome/app/theme/chromium/Neoweb%20___%20Logo.svg
+https://raw.githubusercontent.com/JordanProgramsX/neoweb-browser/0639c4f1e708abd021f26127479eb4e047f2841e/chrome/app/theme/chromium/Neoweb%20___%20Logo.svg
 
 Chromium is an open-source browser project that aims to build a safer, faster,
 and more stable way for all users to experience the web.
